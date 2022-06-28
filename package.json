@@ -6,10 +6,6 @@
   "scripts": {
     "bump-version": "semantic-release"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@me.github.com:vipe4ka-visko4ka/semantic-release.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
